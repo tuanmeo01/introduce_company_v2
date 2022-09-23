@@ -1,0 +1,19 @@
+.footer {
+    position: absolute;  
+    /* position: inherit; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #967E76;
+    text-align: center;
+    border-top: 2px solid grey;
+    opacity: 70%;
+    background-color: #EEE3CB;
+    z-index: -100;
+    
+  }.footer-top{
+    margin: 0;
+    position: relative;
+    top: 10px;
+    line-height: 20px;
+  }
