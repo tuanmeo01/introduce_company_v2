@@ -36,7 +36,7 @@ class Faq extends React.Component {
                                             <input class="app-form-control" placeholder="EMAIL"></input>
                                         </div>
                                         <div class="app-form-group">
-                                            <input class="app-form-control" placeholder="CONTACT NO"></input>
+                                            <input class="app-form-control" placeholder="NUMBER PHONE"></input>
                                         </div>
                                         <div class="app-form-group message">
                                             <input class="app-form-control" placeholder="MESSAGE"></input>

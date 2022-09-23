@@ -3,6 +3,7 @@
     font-family: 'Raleway', sans-serif;
     display: flex;
     justify-content: center;
+    padding-top: 27px;
 }
 
 * {
@@ -64,8 +65,8 @@
     opacity: 0.3;
   }
   
-  .btn-4:hover:before {
-    width: 100%;
+  .btn-4:hover {
+    opacity: 70%;
   }
   .title-border {
     width: 80px;

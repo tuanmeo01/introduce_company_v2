@@ -1,10 +1,10 @@
 import React from "react";
-import './hire.css'
+import './product.css'
 import img1 from '../../image/home1.jpeg'
 import img2 from '../../image/home2.png'
 import img3 from '../../image/home3.jpg'
 import img4 from '../../image/home4.png'
-class Hire extends React.Component {
+class Product extends React.Component {
     render() {
         return (
             <>
@@ -20,30 +20,30 @@ class Hire extends React.Component {
                         <div class="row">
                             <div class="column">
                                 <img className="img" src={img1}></img>
-                                <h1>Jonh Doe</h1>
+                                <h1>EDTech</h1>
                                 <div className="info-name">
-                                    <p>Director</p>
+                                    <p>Serving for education</p>
                                 </div>
                             </div>
                             <div class="column">
                                 <img className="img" src={img2}></img>
-                                <h1>Mike Doe</h1>
+                                <h1>E-learning</h1>
                                 <div className="info-name">
-                                    <p>Senior Designer</p>
+                                    <p>Support for teacher</p>
                                 </div>
                             </div>
                             <div class="column">
                                 <img className="img" src={img1}></img>
-                                <h1>Jona Doe</h1>
+                                <h1>TechSolution</h1>
                                 <div className="info-name">
-                                    <p>Senior Designer</p>
+                                    <p>Technology Solutions</p>
                                 </div>
                             </div>
                             <div class="column">
                                 <img className="img" src={img2}></img>
-                                <h1>Karen Doe</h1>
+                                <h1>Restaurant</h1>
                                 <div className="info-name">
-                                    <p>Business Analys</p>
+                                    <p>Booking order</p>
                                 </div>
                             </div>
                         </div>
@@ -53,4 +53,4 @@ class Hire extends React.Component {
         )
     }
 }
-export default Hire;
+export default Product;

@@ -1,6 +1,12 @@
-.header_name{
+.info-com{
     font-style: italic;
     font-size: 15px;
+}
+.info-com-com{
+    font-size: small;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    opacity: 90%;
 }
 .info{
     font-style: italic;

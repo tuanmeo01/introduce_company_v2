@@ -57,18 +57,20 @@
   
   .background {
     display: flex;
-    min-height: 100vh;
+   
   }
   
   .container {
-    flex: 0 1 700px;
+    flex: 0 1 800px;
     margin: auto;
     padding: 10px;
+    position: relative;
+    top: 200px;
   }
   
   .screen {
     position: relative;
-    background: #3e3e3e;
+    background: #000000;
     border-radius: 15px;
   }
   

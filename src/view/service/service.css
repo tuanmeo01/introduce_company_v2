@@ -23,10 +23,6 @@
     width: 25%;
 }
 
-.img-feature {
-  
-    
-}
 .title-border {
     width: 80px;
     height: 1px;
@@ -67,3 +63,9 @@
     background: linear-gradient(to right, transparent, #5664d2, transparent);
     margin: 0 auto;
 }
+/* .row{
+    background-color: #dfdfdf;
+    display: flex;
+    padding: 15px;
+    position: fixed;
+} */
